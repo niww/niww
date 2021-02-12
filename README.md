@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 My project
-<url src="https://github.com/niww/WtNTD">Todo</url>
+<br>
+<a href="https://github.com/niww/WtNTD">Todo</a>
+
 
 <!--
 **niww/niww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
