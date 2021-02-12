@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 My project
-<br>
-<a href="https://github.com/niww/WtNTD">Todo</a>
+
+- <a href="https://github.com/niww/WtNTD">Todo</a>
 
 
 <!--
